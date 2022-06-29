@@ -1,0 +1,119 @@
+accessing 0th block:
+latency for accessing 0th block is	203
+accessing 1th block:
+latency for accessing 0th block is	78
+latency for accessing 1th block is	86
+accessing 2th block:
+latency for accessing 0th block is	78
+latency for accessing 1th block is	84
+latency for accessing 2th block is	96
+accessing 3th block:
+latency for accessing 0th block is	76
+latency for accessing 1th block is	86
+latency for accessing 2th block is	86
+latency for accessing 3th block is	86
+accessing 4th block:
+latency for accessing 0th block is	76
+latency for accessing 1th block is	86
+latency for accessing 2th block is	84
+latency for accessing 3th block is	83
+latency for accessing 4th block is	90
+accessing 5th block:
+latency for accessing 0th block is	78
+latency for accessing 1th block is	93
+latency for accessing 2th block is	84
+latency for accessing 3th block is	85
+latency for accessing 4th block is	94
+latency for accessing 5th block is	93
+accessing 6th block:
+latency for accessing 0th block is	78
+latency for accessing 1th block is	90
+latency for accessing 2th block is	86
+latency for accessing 3th block is	85
+latency for accessing 4th block is	89
+latency for accessing 5th block is	88
+latency for accessing 6th block is	86
+accessing 7th block:
+latency for accessing 0th block is	80
+latency for accessing 1th block is	95
+latency for accessing 2th block is	86
+latency for accessing 3th block is	99
+latency for accessing 4th block is	94
+latency for accessing 5th block is	85
+latency for accessing 6th block is	85
+latency for accessing 7th block is	91
+accessing 8th block:
+latency for accessing 0th block is	78
+latency for accessing 1th block is	84
+latency for accessing 2th block is	85
+latency for accessing 3th block is	94
+latency for accessing 4th block is	93
+latency for accessing 5th block is	84
+latency for accessing 6th block is	93
+latency for accessing 7th block is	86
+latency for accessing 8th block is	86
+accessing 9th block:
+latency for accessing 0th block is	78
+latency for accessing 1th block is	94
+latency for accessing 2th block is	96
+latency for accessing 3th block is	92
+latency for accessing 4th block is	101
+latency for accessing 5th block is	103
+latency for accessing 6th block is	107
+latency for accessing 7th block is	97
+latency for accessing 8th block is	99
+latency for accessing 9th block is	100
+accessing 10th block:
+latency for accessing 0th block is	80
+latency for accessing 1th block is	95
+latency for accessing 2th block is	109
+latency for accessing 3th block is	101
+latency for accessing 4th block is	101
+latency for accessing 5th block is	92
+latency for accessing 6th block is	102
+latency for accessing 7th block is	93
+latency for accessing 8th block is	94
+latency for accessing 9th block is	95
+latency for accessing 10th block is	93
+accessing 11th block:
+latency for accessing 0th block is	78
+latency for accessing 1th block is	99
+latency for accessing 2th block is	93
+latency for accessing 3th block is	107
+latency for accessing 4th block is	94
+latency for accessing 5th block is	105
+latency for accessing 6th block is	96
+latency for accessing 7th block is	97
+latency for accessing 8th block is	100
+latency for accessing 9th block is	95
+latency for accessing 10th block is	97
+latency for accessing 11th block is	94
+accessing 12th block:
+latency for accessing 0th block is	82
+latency for accessing 1th block is	104
+latency for accessing 2th block is	95
+latency for accessing 3th block is	100
+latency for accessing 4th block is	101
+latency for accessing 5th block is	93
+latency for accessing 6th block is	93
+latency for accessing 7th block is	93
+latency for accessing 8th block is	98
+latency for accessing 9th block is	103
+latency for accessing 10th block is	94
+latency for accessing 11th block is	600
+latency for accessing 12th block is	214
+accessing 13th block:
+latency for accessing 0th block is	248
+latency for accessing 1th block is	600    
+latency for accessing 2th block is	214
+latency for accessing 3th block is	93
+latency for accessing 4th block is	244
+latency for accessing 5th block is	99
+latency for accessing 6th block is	255
+latency for accessing 7th block is	94
+latency for accessing 8th block is	99
+latency for accessing 9th block is	360
+latency for accessing 10th block is	245
+latency for accessing 11th block is	236
+latency for accessing 12th block is	241
+latency for accessing 13th block is	281
